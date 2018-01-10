@@ -2,7 +2,7 @@
 
 Le jeu du Sudoku en mini-projet.
 
-#Exemples du jeu sont dans resources
+Exemples du jeu sont dans resources
 
 ## Exécution du jeu avec lein
 lein run
